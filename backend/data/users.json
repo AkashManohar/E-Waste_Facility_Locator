@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Yakesh",
+    "email": "yakesh@gmail.com",
+    "password": "$2b$10$.Q7aR2ukr1j9NQjT6k4ll.uOq9n43WzqeslrCGOwqb47LB4GZBdl2",
+    "credits": 0,
+    "history": []
+  },
+  {
+    "name": "srikanth",
+    "email": "srikanth@gmail.com",
+    "password": "$2b$10$13k6VPJoACy6BiJlCciSZuZdOGIPbpVkdTH2dV6Jq3mLlCY3ahR0S",
+    "credits": 0,
+    "history": []
+  }
+]
